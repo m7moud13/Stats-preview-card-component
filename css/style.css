@@ -59,8 +59,9 @@ span {color: hsl(277, 64%, 61%);}
 }
 .last-line {
     display: flex;
-    justify-content: space-evenly;
-    padding-top: 45px
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-right: 70px;
 }
 .last-line h2{
     font-weight: 700;
