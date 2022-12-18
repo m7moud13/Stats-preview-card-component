@@ -22,7 +22,6 @@ body {
     grid-template-columns: 1fr 1fr;   
 }
 .image img{
-
     width: 100%;
     height: 100%;
     border-radius: 2%;
@@ -60,7 +59,7 @@ span {color: hsl(277, 64%, 61%);}
 }
 .last-line {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     padding-top: 45px
 }
 .last-line h2{
